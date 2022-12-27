@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body{
+   background: linear-gradient(to left, rgb(255, 255, 255),rgb(255, 255, 255));
+}
+
+.parent{
+    background:  linear-gradient(to  left, coral, gold);
+    width: 700px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border-bottom-left-radius: 85px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 20px;
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.him{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gender{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
